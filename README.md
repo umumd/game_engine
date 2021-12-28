@@ -118,7 +118,7 @@ Windows7及之后版本，使用SetWindowDisplayAffinity
 [VAC Bypass Loader  --  启动一个没有VAC的Steam,我尝试不行,可能要稍作调试](https://github.com/danielkrupinski/VAC-Bypass-Loader)
 
 
-## 其他
+## 论坛/博客
 
 [secret club](https://secret.club/)
 
