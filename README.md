@@ -1,15 +1,16 @@
 ## 项目说明
-------------------------------
+
 本项目只是个人总结，不定期更新。 
 
 如果你有更好的想法或者是问题，欢迎给我留言。 
 
 
 ## 基础
-------------------------------
+
 > 行动之前，先学会怎么走路。
 
 ### C
+
 | 书名 | 版本 | 作者 | 备注 |
 | ---- | ---- | ---- | ----| 
 |《C语言程序设计》| - | 谭浩强 | 入门 |
@@ -22,16 +23,19 @@
 |《C++ Primer Plus》| 第6版 | StephenPrata | - |
 
 ### 数据结构
+
 | 书名 | 版本 | 作者 | 备注 |
 | ---- | ---- | ---- | ----| 
 | 《大话数据结构》| - | 程杰 | 操作系统的内核或者其他方面会涉及到数据结构 |
 
 ### 汇编
+
 | 书名 | 版本 | 作者 | 备注 |
 | ---- | ---- | ---- | ----| 
 | 《汇编语言》| 第4版 | 王爽 | - |
 
 ### 其他
+
 | 书名 | 版本 | 作者 | 备注 |
 | ---- | ---- | ---- | ----| 
 | 《C++反汇编与逆向分析技术揭秘》| - | 钱林松 / 赵海旭 | - |
@@ -40,7 +44,7 @@
 
 
 ## 绕过硬件封禁
-------------------------------
+
 [wmi-static-spoofer -- 伪造硬盘序列号](https://github.com/Alex3434/wmi-static-spoofer) 
 
 [hwid -- HWID欺骗](https://github.com/btbd/hwid)
@@ -48,13 +52,13 @@
 [negativespoofer -- 伪造BIOS信息](https://github.com/SamuelTulach/negativespoofer)
 
 ## 防截图
-------------------------------
+
 Windows xp及之前版本，使用directdraw的overlay surface 
 
 Windows7及之后版本，使用SetWindowDisplayAffinity
 
 ## 过检测
-------------------------------
+
 [kdmapper  --  国外用的人还蛮多,驱动程序手动映射器](https://github.com/z175/kdmapper)
 
 [kdmapper-1803-1903  --  同上](https://github.com/alxbrn/kdmapper-1803-1903)
@@ -100,12 +104,13 @@ Windows7及之后版本，使用SetWindowDisplayAffinity
 [vmread  --  ](https://github.com/h33p/vmread)
 
 ## 相关库
+
 [nt_wrapper  --  更快更容易更难反编译](https://github.com/JustasMasiulis/nt_wrapper)
 
 [skCrypter  --  C++11的轻量级字符串加密库](https://github.com/skadro-official/skCrypter)
 
 ## VAC
-------------------------------
+
 [VAC Bypass  --  看了一下,用Dll注入Hook相关检测函数](https://github.com/danielkrupinski/VAC-Bypass)
 
 [VAC  --  介绍了VAC是如何检测作弊的](https://github.com/danielkrupinski/VAC)
@@ -114,7 +119,7 @@ Windows7及之后版本，使用SetWindowDisplayAffinity
 
 
 ## 其他
-------------------------------
+
 [secret club](https://secret.club/)
 
 [unknowncheats](https://www.unknowncheats.me/forum/index.php)
