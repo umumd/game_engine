@@ -42,6 +42,12 @@
 | 《IDA Pro权威指南》| 第2版 | Chris Eagle | - |
 | 《游戏外挂攻防艺术》| - | 徐胜 | - |
 
+## 绘制
+
+[imgui -- C++ 图形用户界面库](https://github.com/ocornut/imgui) 
+[kiero -- 基于 D3D9-D3D12、OpenGL 和 Vulcan 的游戏的通用图形挂钩](https://github.com/Rebzzel/kiero) 
+[minhook -- 适用于 Windows 的简约 x86/x64 API 挂钩库](https://github.com/TsudaKageyu/minhook)
+
 
 ## 绕过硬件封禁
 
