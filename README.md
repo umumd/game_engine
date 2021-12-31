@@ -117,6 +117,9 @@ Windows7及之后版本，使用SetWindowDisplayAffinity
 
 [skCrypter  --  C++11的轻量级字符串加密库](https://github.com/skadro-official/skCrypter)
 
+[Blackbone  --  Windows的一个内存hacker库](https://github.com/DarthTon/Blackbone)
+
+
 ## VAC
 
 [VAC Bypass  --  看了一下,用Dll注入Hook相关检测函数](https://github.com/danielkrupinski/VAC-Bypass)
